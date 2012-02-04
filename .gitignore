@@ -1,0 +1,7 @@
+target/
+.svn/
+.DS_Store
+*.iws
+*.ipr
+*.iml
+nbactions.xml
